@@ -21,4 +21,4 @@ Se dejo la api key para evitar crear una (puede demorar el registro, es mala pra
 
 ## Demostracion Video:
 
-[Youtube](<[https://](https://youtube.com/shorts/caPQHZ7UE-Q?feature=share)>)
+[Youtube](https://youtube.com/shorts/caPQHZ7UE-Q?feature=share)
